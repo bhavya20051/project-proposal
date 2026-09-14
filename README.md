@@ -1,6 +1,6 @@
 
 
-# Fourth Down: Combining the raw sports data with cutting edge statistical models
+# Fourth Down: Combining the NFL data with Stastical Models
 
 ## What and Why
 Fourth Down will be a website that allows users to combines  passionate fans a deeper look into the NFL by combining sports data with the field of statistical analysis.
